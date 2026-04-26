@@ -13,6 +13,6 @@ ENTREGA 2
 |Archivos .sql población de tablas | Poblacion sql | 
 |Archivos .sql de las consultas | Consultas sql | 
 |Archivos .sql con las sentencias para la implementación de RF||
-|Documento | Proyecto2.pdf |
+|Documento |  |
 |Proyecto APEX final ||
 
